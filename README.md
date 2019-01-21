@@ -1,2 +1,3 @@
 # For-Study
-to learn somethings
+to learn somethings,
+change somethings
